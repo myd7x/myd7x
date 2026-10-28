@@ -1,144 +1,241 @@
+<div align="center">
+
 # Maged Magdy
 
 ### Backend Developer | Node.js & Express.js
 
-I'm a Backend Developer based in Alexandria, Egypt, focused on building reliable RESTful APIs and backend systems with Node.js and Express.js.
+Building APIs, backend systems, and web applications.
 
-I have hands-on experience with authentication, authorization, database design, MVC architecture, API testing, and building backend features for real-world applications.
+<a href="https://github.com/myd7x">
+  <img src="https://img.shields.io/badge/GitHub-myd7x-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://linkedin.com/in/maged-magdy-7b967a216">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="mailto:magedmagdy260@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
 
-I'm currently looking for opportunities where I can grow as a Backend Developer and contribute to meaningful software projects.
+📍 Alexandria, Egypt
 
----
-
-## About Me
-
-* Backend development with Node.js and Express.js
-* RESTful API design and development
-* Authentication and authorization using JWT and OAuth
-* MongoDB, Mongoose, MySQL, and Sequelize
-* MVC, OOP, asynchronous programming, and error handling
-* API testing and validation with Postman
-* Git and GitHub for version control
-* Familiar with Redis, GraphQL, Socket.IO, and Docker
+</div>
 
 ---
 
-## Technical Skills
+## 👋 About Me
 
-**Languages & Backend**
+I'm a Computer Science graduate and Backend Developer who enjoys building practical applications and solving problems through code.
 
-Node.js · Express.js · JavaScript (ES6+) · REST APIs
+I mainly work with **Node.js and Express.js**, focusing on RESTful APIs, authentication, database design, and integrating external services. I've also worked with Next.js and TypeScript, giving me experience with both backend development and the frontend side of web applications.
 
-**Authentication & Security**
+I've worked on projects ranging from e-commerce platforms and management systems to cybersecurity applications. I enjoy learning new technologies, improving my code, and understanding how to build applications that are reliable and maintainable.
 
-JWT · OAuth (Google) · Authorization
-
-**Databases**
-
-MongoDB · Mongoose · MySQL · Sequelize
-
-**Backend Concepts**
-
-MVC · OOP · Async Programming · Error Handling
-
-**Tools**
-
-Git · GitHub · Postman · Docker
-
-**Other Technologies**
-
-Redis · GraphQL · Socket.IO
+I'm currently looking for opportunities to grow as a Backend Developer and contribute to real-world software projects.
 
 ---
 
-## Featured Projects
+## 🛠️ Tech Stack
 
-### ROMZ — E-Commerce Platform
+<div align="center">
 
-A full-stack e-commerce platform built with a Next.js frontend and Node.js backend.
+### Backend Development
 
-The project includes RESTful APIs, authentication and authorization, product and order management, payment integration, image management, courier integration, and an admin dashboard.
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,ts" alt="Backend technologies"/>
 
-**Stack:** Node.js · Express.js · MongoDB · Mongoose · Next.js · TypeScript · Redis · Cloudinary
+### Databases & Data Storage
 
-[View the project](https://github.com/myd7x/final-romz1)
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" alt="Database technologies"/>
 
----
+### Frontend Development
 
-### QRGuard — Malicious QR Code Detection
+<img src="https://skillicons.dev/icons?i=nextjs,react,html,css,tailwind" alt="Frontend technologies"/>
 
-A cybersecurity-focused project designed to identify and defend against potentially malicious QR codes.
+### Tools & Platforms
 
-The project combines web development with cybersecurity concepts to address threats associated with malicious QR codes.
+<img src="https://skillicons.dev/icons?i=git,github,postman,docker" alt="Development tools"/>
 
-[View the project](https://github.com/myd7x/qr)
+</div>
 
----
-
-### Academy
-
-An application focused on managing academic data and workflows, with a backend built around RESTful APIs and database operations.
-
-[View the project](https://github.com/myd7x/academy)
+**Additional experience:** Mongoose, Sequelize, JWT, Google OAuth, GraphQL, Socket.IO, API validation, and MVC architecture.
 
 ---
 
-### Blog
+## 🚀 Featured Projects
 
-A backend-oriented blog application for managing and serving blog content through APIs.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[View the project](https://github.com/myd7x/blog)
+### 🛒 ROMZ — E-Commerce Platform
+
+A full-stack e-commerce application with a dedicated backend and modern web frontend.
+
+- RESTful API development
+- Authentication and authorization
+- Product and order management
+- Payment gateway integration
+- Courier service integration
+- Admin dashboard
+
+**Tech Stack**
+
+`Node.js` `Express.js` `MongoDB` `Redis` `Next.js` `TypeScript`
+
+<br/>
+
+<a href="https://github.com/myd7x/final-romz1">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View ROMZ repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🔐 QRGuard — Cybersecurity
+
+A cybersecurity graduation project focused on detecting and defending against potentially malicious QR codes.
+
+- Malicious QR code detection
+- Web application security
+- Security-focused application design
+- Protection against QR-related threats
+
+**Focus Areas**
+
+`Cybersecurity` `Web Development` `Application Security`
+
+<br/>
+
+<a href="https://github.com/myd7x/qr">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View QRGuard repository"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏟️ Academy Management System
+
+A management application designed to organize academy operations and related data.
+
+- Backend API development
+- Database operations
+- Business logic
+- Management workflows
+
+**Focus Areas**
+
+`Node.js` `APIs` `Database Design`
+
+<br/>
+
+<a href="https://github.com/myd7x/academy">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View Academy repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📝 Blog Application
+
+A backend-oriented application for managing blog content and exposing functionality through APIs.
+
+- Content management
+- RESTful API development
+- Database integration
+- Backend application structure
+
+**Focus Areas**
+
+`Node.js` `Express.js` `MongoDB`
+
+<br/>
+
+<a href="https://github.com/myd7x/blog">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View Blog repository"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Professional Experience
+## 💼 Experience
 
 ### Backend Developer Intern — Connect Pharma
 
-**Sharjah | 07/2025 – 10/2025**
+📍 Sharjah | July 2025 – October 2025
 
-During my internship, I worked on backend systems and RESTful APIs using Node.js and Express.
+Worked on backend development and API-related tasks using Node.js and Express.js.
 
-My work included:
-
-* Developing RESTful APIs
-* Working with MongoDB and MySQL
-* Implementing JWT authentication and authorization
-* Testing APIs with Postman
-* Handling validation
-* Collaborating with the team on backend systems
+- Developed and worked with RESTful APIs.
+- Worked with MongoDB and MySQL.
+- Implemented authentication and authorization using JWT.
+- Tested endpoints and API behavior with Postman.
+- Worked with request validation and error handling.
+- Collaborated with the team on backend functionality.
 
 ---
 
-## Education
+## 🎓 Education
 
-**Bachelor of Computer Science**
-Pharos University — Alexandria
+**Bachelor of Computer Science**  
+Pharos University — Alexandria, Egypt
 
 **Back-End Web Development Diploma**
-Node.js · Express · MongoDB · MySQL
+
+Studied backend development concepts and technologies, including Node.js, Express.js, MongoDB, and MySQL.
 
 ---
 
-## What I'm Interested In
+## 📊 GitHub Statistics
 
-Backend development
-API development
-Node.js applications
-Database-driven systems
-Application security
-Scalable backend architecture
+<div align="center">
 
----
+<a href="https://github.com/myd7x">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=myd7x&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/myd7x">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=myd7x&layout=compact&hide_border=true&theme=tokyonight" alt="Most used programming languages"/>
+</a>
 
-## Contact
+<br/>
 
-**LinkedIn:** [linkedin.com/in/maged-magdy-7b967a216](https://linkedin.com/in/maged-magdy-7b967a216)
+<img src="https://streak-stats.demolab.com?user=myd7x&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
-**GitHub:** [github.com/myd7x](https://github.com/myd7x)
-
-**Email:** [magedmagdy260@gmail.com](mailto:magedmagdy260@gmail.com)
+</div>
 
 ---
 
-If you're a recruiter or developer interested in my work, feel free to explore my repositories.
+## 🎯 Currently Focused On
+
+- Building better REST APIs with Node.js and Express.js.
+- Improving database design and query performance.
+- Writing clean, maintainable, and well-structured code.
+- Learning more about scalable backend architecture.
+- Improving application security and authentication systems.
+
+---
+
+## 📫 Let's Connect
+
+I'm open to connecting with developers, discussing interesting projects, and exploring Backend Developer opportunities.
+
+<div align="center">
+
+<a href="https://linkedin.com/in/maged-magdy-7b967a216">
+  <img src="https://img.shields.io/badge/LinkedIn-Maged_Magdy-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/myd7x">
+  <img src="https://img.shields.io/badge/GitHub-myd7x-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="mailto:magedmagdy260@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+
+*Thanks for stopping by! Feel free to explore my repositories.*
+
+</div>
